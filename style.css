@@ -1,11 +1,11 @@
 body {
-    background-color: rgb(20, 21, 22);
+    background-color: rgb(16, 16, 16);
  
 }
 
 
 section{
-    color: azure;
+    color: rgb(247, 243, 243);
 }
 
 body {
@@ -47,11 +47,12 @@ header {
 }
 
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #575555;
+    color: #fffcfc;
     text-align: center;
     padding: 10px;
     position: fixed;
     bottom: 0;
     width: 100%;
 }
+
