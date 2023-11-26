@@ -5,7 +5,7 @@ body {
 
 
 section{
-    color: rgb(5, 5, 5);
+    color: rgb(0, 0, 0);
 }
 
 body {
@@ -15,7 +15,7 @@ body {
 }
 
 header {
-    background-color: rgba(250, 250, 250, 0.106) 250, 250, 0.928);
+    background-color: rgba(0, 0, 0, 0.106) 250, 250, 0.928);
     color: #000000;
     text-align: center;
     padding: 10px;
@@ -30,7 +30,7 @@ header {
 
 .producto {
     width: 300px;
-    border: 1px solid #f7f6f6;
+    border: 1px solid #ffffff;
     margin: 10px;
     padding: 10px;
     text-align: center;
